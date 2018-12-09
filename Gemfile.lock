@@ -237,8 +237,10 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   duktape
   jbuilder (~> 2.5)
+  nokogiri
   pg
   puma (~> 3.11)
+  rack (~> 2.0.1)
   rails (~> 5.2.2)
   sass-rails (~> 5.0)
   selenium-webdriver

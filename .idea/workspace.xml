@@ -18,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/HelloWorld@Development__HelloWorld.rcov" NAME="Development: HelloWorld Coverage Results" MODIFIED="1544331394291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="HelloWorld" />
+    <SUITE FILE_PATH="coverage/HelloWorld@Development__HelloWorld.rcov" NAME="Development: HelloWorld Coverage Results" MODIFIED="1544331448870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="HelloWorld" />
   </component>
   <component name="FileEditorManager">
     <leaf>
@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="327">
-              <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
+              <caret line="254" selection-start-line="254" selection-end-line="255" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -258,12 +258,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1544328709636</updated>
-      <workItem from="1544328717955" duration="2176000" />
+      <workItem from="1544328717955" duration="2234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2176000" />
+    <option name="totallyTimeSpent" value="2234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -392,7 +392,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
-          <caret line="254" lean-forward="true" selection-start-line="254" selection-end-line="254" />
+          <caret line="254" selection-start-line="254" selection-end-line="255" selection-end-column="14" />
         </state>
       </provider>
     </entry>
